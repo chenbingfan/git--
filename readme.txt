@@ -1,2 +1,1 @@
-﻿这是我第一次用 Git 写的文件
-新增
+line one: hello from master by coworker
